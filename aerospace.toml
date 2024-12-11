@@ -114,10 +114,10 @@ outer.right =      20
 alt-ctrl-shift-f = 'fullscreen'
 alt-ctrl-f = 'layout tiling floating'
 
-alt-ctrl-shift-h = 'join-with left'
-alt-ctrl-shift-j = 'join-with down'
-alt-ctrl-shift-k = 'join-with up'
-alt-ctrl-shift-l = 'join-with right'
+ctrl-shift-h = 'join-with left'
+ctrl-shift-j = 'join-with down'
+ctrl-shift-k = 'join-with up'
+ctrl-shift-l = 'join-with right'
 
 # See: https://nikitabobko.github.io/AeroSpace/commands#layout
 alt-period = 'layout tiles horizontal vertical'
