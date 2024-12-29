@@ -1,4 +1,4 @@
-# My AeroSpace tiling window manager config
+# My AeroSpace tiling window manager config 
 
 🇩🇪 Optimized for german QUERTZ keyboard layout to not obstruct any button functionality,
 
