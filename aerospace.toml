@@ -158,7 +158,7 @@ alt-shift-tab = 'move-workspace-to-monitor --wrap-around next'
 alt-shift-semicolon = 'mode service'
 alt-shift-enter = 'mode apps'
 
-alt-a = 'exec-and-forget open -a /Applications/Arc.app'
+# Configure apps to launch
 alt-o = 'exec-and-forget open -a /Applications/Obsidian.app'
 alt-s = 'exec-and-forget open -a /Applications/Safari.app'
 alt-t = 'exec-and-forget open -a /Applications/iTerm.app'
