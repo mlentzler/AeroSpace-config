@@ -161,6 +161,7 @@ alt-shift-enter = 'mode apps'
 alt-a = 'exec-and-forget open -a /Applications/Arc.app'
 alt-o = 'exec-and-forget open -a /Applications/Obsidian.app'
 alt-s = 'exec-and-forget open -a /Applications/Safari.app'
+alt-t = 'exec-and-forget open -a /Applications/iTerm.app'
 
 
 # 'service' binding mode declaration.
