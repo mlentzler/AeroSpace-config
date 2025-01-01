@@ -4,6 +4,6 @@
 
 ⚡ Hightlights the currently selected app. (Install [JankyBoarders](https://github.com/FelixKratz/JankyBorders) for it to work)
 
-📱 Launch apps with shortcuts, currently configured for iTerm2, Obsidian and Safari but you can configure any app. Configure in the `# Configure apps to launch` section.
+📱 Launch apps with shortcuts, currently configured for Kitty, Obsidian and Safari but you can configure any app. Configure in the `# Configure apps to launch` section.
 
 🛫 Get [AeroSpace](https://github.com/nikitabobko/AeroSpace) here!
