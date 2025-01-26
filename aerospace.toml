@@ -159,7 +159,7 @@ alt-shift-semicolon = 'mode service'
 alt-shift-enter = 'mode apps'
 
 # Configure apps to launch
-alt-s = 'exec-and-forget open -a /Applications/Safari.app'
+alt-b = 'exec-and-forget open -a /Applications/Safari.app'
 alt-t = 'exec-and-forget open -a /Applications/kitty.app'
 
 
